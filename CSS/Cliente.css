@@ -1,0 +1,26 @@
+html{
+    background-color: rgb(58, 58, 58);
+}
+.contenedor-padre{
+    position: absolute;;
+    background-color: rgb(215, 215, 215);
+    height: 700px;
+    width: 600px;
+    margin: 1% 30%;
+    text-align: center;
+    border-radius: 15px;
+    
+}
+.input-group{
+    margin-bottom: 12px;
+}
+.table{
+    text-align: center;
+}
+h1{
+    margin-bottom: 30px;
+}
+.label{
+    padding: 10px;
+    font-size: 19px;
+}

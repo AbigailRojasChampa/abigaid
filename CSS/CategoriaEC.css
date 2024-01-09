@@ -1,0 +1,22 @@
+html{
+    background-color: gray;
+}
+.deleted{
+    width: 400px;
+    height: 450px;
+    background-color: white;
+    margin: 6% 35%;
+    position: absolute;
+    border-radius: 20px;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    padding: 0%;
+    margin-left: 90px;
+}
+.btn{
+    margin: 15% 35%;
+}

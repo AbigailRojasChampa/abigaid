@@ -1,0 +1,60 @@
+html{
+    background-color: rgb(57, 56, 56);
+}
+.padre{
+    position: absolute;
+    margin: 2% 37%;
+    background-color: rgb(255, 255, 255);
+    height: 675px;
+    width: 450px;
+    border-radius: 30px;
+}
+.img{
+    height: 200px;
+}
+.form-floating, .form-control{
+    width: 395px;
+    margin-left: 10px;
+}
+.data{
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    height: 150px;
+}
+.join{
+    height: 35px;
+    width: 100px;
+    margin-left: 175px; 
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.link{
+    margin-left: 135px;
+}
+.img1{
+    margin-left: 28px;
+}
+.img2{
+    margin-left: 48px;
+}
+.volver{
+    margin-top: 20px;
+    margin-left: 177px;
+    background-color: white;
+    border-radius: 10px;
+    width: 100px;
+    
+}
+.last{
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+    height: 66px;
+}
+.register{
+    color: rgb(86, 7, 255);
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: 19px;
+}

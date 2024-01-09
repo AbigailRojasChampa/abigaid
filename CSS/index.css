@@ -1,0 +1,229 @@
+.padre{
+    padding: none;
+    background-color: white;
+    width: 1500px;
+    height: 850px;
+    position: relative;
+}
+.head{
+    background-color: rgb(130, 130, 130);
+    width: 1500px;
+    height: 90px;
+
+}
+.body{
+    background-color:white;
+    width: 1500px;
+    height: 600;
+    position: absolute;
+    float: left;
+}
+html{
+    margin: 0 0;
+    position: relative;
+}
+/* CLASE HEAD */
+option{
+    padding-top: 40px;
+    background-color:white;
+
+}
+select{
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    margin: 20px 55px;
+    float: left;
+}
+.ofertas{
+    background-color: white;
+    margin: 0% 20px;
+    margin-top: 20px;
+    height: 40px;
+    width: 100px;
+    float: left;
+    border-radius: 20px;
+}
+.title{
+    margin-left: 70px;
+    margin-top: 10px;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(198, 168, 168);
+    width: 400px;
+    height: 60px;
+    border-radius: 20px;
+    float: left;
+}
+
+.buscar{
+    margin-left: 60px;
+    margin-top: 30px;
+    width: 280px;
+    height: 20px;
+    float: left;
+    border-radius: 10px;
+}
+.img{
+    margin-left: 70px;
+    margin-top: 10px;
+    float: left;
+}
+
+.enter{
+    background-color: white;
+    margin-top: 30px;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+}
+/* CLASS BODY */
+
+.producto1{
+    height: 346px;
+    width: 350px;
+    background-color: rgb(135, 135, 167);
+    float: left;
+    margin-right:10px;
+    margin-left: 10px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    margin-bottom: 20px;
+}
+.producto2{
+    height: 346px;
+    width: 350px;
+    background-color: rgb(193, 179, 179);
+    float: left;
+    margin-right:10px;
+    margin-left: 10px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    margin-bottom: 20px;
+}
+.producto3{
+    height: 346px;
+    width: 350px;
+    background-color: rgb(135, 135, 167);
+    float: left;
+    margin-right:10px;
+    margin-left: 10px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    margin-bottom: 20px;
+}
+.producto4{
+    height: 346px;
+    width: 350px;
+    background-color: rgb(193, 179, 179);
+    float: left;
+    margin-right:10px;
+    margin-left: 10px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    margin-bottom: 20px;
+}
+.producto5{
+    height: 346px;
+    width: 350px;
+    background-color: rgb(193, 179, 179);
+    float: left;
+    margin-right:10px;
+    margin-left: 10px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    margin-bottom: 20px;
+}
+.producto6{
+    height: 346px;
+    width: 350px;
+    background-color: rgb(135, 135, 167);
+    float: left;
+    margin-right:10px;
+    margin-left: 10px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    margin-bottom: 20px;
+}
+.producto7{
+    height: 346px;
+    width: 350px;
+    background-color: rgb(193, 179, 179);
+    float: left;
+    margin-right:10px;
+    margin-left: 10px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    margin-bottom: 20px;
+}
+.producto8{
+    height: 346px;
+    width: 350px;
+    background-color: rgb(135, 135, 167);
+    float: left;
+    margin-right:10px;
+    margin-left: 10px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    margin-bottom: 20px;
+}
+.img-producto{
+    float: left;
+    height: 246px;
+    width: 350px;
+    background-color: white;
+    border-color: black;
+    border-width: 3px;
+}
+.detalles-producto{
+    background-color:rgb(249, 249, 249);
+    height: 40px;
+    width: 350px;
+    float: left;
+}
+.nombre-producto{
+    background-color:rgb(255, 255, 255);
+    margin-left: 15px;
+    height: 40px;
+    width: 230px;
+    float: left;
+}
+.precio-producto{
+    text-align: center;
+    background-color:rgb(252, 252, 252);
+    height: 40px;
+    width: 105px;
+    float: left;
+}
+.aniadir{
+    float: left;
+    background-color:rgb(255, 255, 255);
+    height: 60px;
+    width: 350px;
+}
+.carrito{
+    background-color: rgb(255, 255, 255);
+    margin-top: 12px;
+    height: 35px;
+    margin-left: 50px;
+    width: 200px;
+    float: left;
+}
+.img-car{
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    background-color:rgb(255, 255, 255);
+    width: 40px;
+    height: 40px;
+}
+/* Detalles */
+
+.btn-carrito{
+    background-color: white;
+    width: 200px;
+    height: 35px;
+    border-radius: 10px;
+}
